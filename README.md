@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Kauan Oliveira 👋
 -  I’m currently learning Full Stack Web Development
 
 <div>
