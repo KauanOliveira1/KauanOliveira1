@@ -1,6 +1,6 @@
 ### My name is Kauan Oliveira 👋
 -  I’m currently learning Full Stack Web Development
-
+<br><br>
 <div>
   <a href="https://github.com/KauanOliveira1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KauanOliveira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
